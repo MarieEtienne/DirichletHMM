@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+nlopt
+jax[cuda13]
+estimators
